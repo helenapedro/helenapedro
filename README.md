@@ -3,7 +3,7 @@
 <img src="about.jpg" alt="">
 
 ## Find me around the web 🌎: <a href="https://helenapedro.github.io/"><img align="left" width="150" height="150" src="image-octocat-rotating.gif"></a>
-- On <a href="https://helenapedro.github.io/">My Portfolio</a>
+- On <a href="https://helenapedro.github.io/" target="blank">My Portfolio</a>
 - On <a href="https://www.linkedin.com/in/helena-mbeua-pedro/">LinkedIn</a> 
 
 <!--

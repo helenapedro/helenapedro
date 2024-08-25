@@ -1,6 +1,6 @@
 # Hi, I'm Helena 👋🏾 👩🏾‍💻
 
-<img src="about.jpg" alt="">
+<!-- <img src="about.jpg" alt=""> -->
 
 ## Find me around the web 🌎: <a href="https://helenapedro.github.io/"><img align="left" width="150" height="150" src="image-octocat-rotating.gif"></a>
 - On <a href="https://helenapedro.github.io/" target="_blank">My Portfolio</a>

@@ -11,7 +11,6 @@ I am a passionate and experienced Software Engineer with a proven track record o
 - On [LinkedIn](https://www.linkedin.com/in/helena-mbeua-pedro/)
 
 ## 🛠️ My Skills
--
 - Java, Spring, JavaScript/TypeScript, Node.js/Express, Python, Flask, React/Redux, SQL, MongoDB
 - REST API design, database optimization, cloud solutions
 - Clean code principles, agile methodologies, and collaborative teamwork within cross-functional environments

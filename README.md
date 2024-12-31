@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/helenapedro?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/helenapedro?style=social)
 
-I am a passionate and experienced Software Engineer with a proven track record of designing and delivering high-performance, scalable solutions. My expertise spans full-stack development, microservices architecture, and cloud-based systems, strongly focusing on building applications that address real-world business needs.
+I am a passionate and experienced Software Engineer with a proven track record of designing and delivering high-performance, scalable solutions. My expertise spans full-stack development, microservices architecture, cloud-based systems and Data Science, strongly focusing on building applications that address real-world business needs.
 
 ## Find me around the web 🌎:
 <a href="https://helenapedro.github.io/"><img align="left" width="150" height="150" src="image-octocat-rotating.gif"></a>

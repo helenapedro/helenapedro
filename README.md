@@ -7,7 +7,7 @@ I am a passionate and experienced Software Engineer with a proven track record o
 
 ## Find me around the web 🌎:
 <a href="https://helenapedro.github.io/"><img align="left" width="150" height="150" src="image-octocat-rotating.gif"></a>
-- On [My Portfolio](https://helenapedro.github.io/)
+- On [My Portfolio](https://helenapedro.mtcambrosio.com/)
 - On [LinkedIn](https://www.linkedin.com/in/helena-mbeua-pedro/)
 
 ## 🛠️ My Skills

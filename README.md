@@ -7,7 +7,7 @@ I am a passionate and experienced Software Engineer with a proven track record o
 
 ## Find me around the web 🌎:
 <a href="https://helenapedro.github.io/"><img align="left" width="150" height="150" src="image-octocat-rotating.gif"></a>
-- On [My Portfolio](https://helenapedro.mtcambrosio.com/)
+- On [My Portfolio](https://myportfolio.hmpedro.com/)
 - On [LinkedIn](https://www.linkedin.com/in/helena-software-engineer/)
 
 ## 🛠️ My Skills
@@ -16,8 +16,8 @@ I am a passionate and experienced Software Engineer with a proven track record o
 - Clean code principles, agile methodologies, and collaborative teamwork within cross-functional environments
 
 ## 📚 Current Projects
-- [Minkanda: Note Taking](https://minkanda-notes-taking.mtcambrosio.com/): Web app that securely creates, manages, and accesses private and public notes. Login credentials for testing: (email: test@test.com, password: Test4321).
-- [Resume Feedback](https://resumefeedback.mtcambrosio.com/): Collaborative web app where job seekers can give and receive valuable feedback on their resumes, designed for those who want honest, constructive insights from peers.
+- [Minkanda: Note Taking](https://minkanda.hmpedro.com/login): Web app that securely creates, manages, and accesses private and public notes. Login credentials for testing: (email: test@test.com, password: Test4321).
+- [Resume Feedback](https://master.d1cehne8ow0dq0.amplifyapp.com/): Collaborative web app where job seekers can give and receive valuable feedback on their resumes, designed for those who want honest, constructive insights from peers.
 
 ## 📫 How to Reach Me
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/helena-mbeua-pedro/) or [mbeua94@gmail.com](mailto:mbeua94@gmail.com).

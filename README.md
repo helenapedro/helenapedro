@@ -20,6 +20,6 @@ I am a passionate and experienced Software Engineer with a proven track record o
 - [Resume Feedback](https://master.d1cehne8ow0dq0.amplifyapp.com/): Collaborative web app where job seekers can give and receive valuable feedback on their resumes, designed for those who want honest, constructive insights from peers.
 
 ## 📫 How to Reach Me
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/helena-mbeua-pedro/) or [mbeua94@gmail.com](mailto:mbeua94@gmail.com).
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/helena-software-engineer/) or [mbeua94@gmail.com](mailto:mbeua94@gmail.com).
 
 Thanks for visiting my profile!

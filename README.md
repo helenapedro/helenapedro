@@ -111,3 +111,6 @@ These experiences strengthened my focus on building **scalable, maintainable sys
 - 📧 [mbeua94@gmail.com](mailto:mbeua94@gmail.com)
 
 Thanks for visiting my profile! ⭐
+<a>
+  <img align="left" width="150" height="150" src="https://mbeuaportfolio-media.s3.us-east-2.amazonaws.com/me.jpeg">
+</a>

@@ -1,42 +1,113 @@
-# Hi, I'm Helena 👋🏾 👩🏾‍💻
+# Helena Pedro 👋🏾 👩🏾‍💻
 
 ![GitHub followers](https://img.shields.io/github/followers/helenapedro?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/helenapedro?style=social)
 
-I am a passionate and experienced Software Engineer with a proven track record of designing and delivering high-performance, scalable solutions. My expertise spans full-stack development, microservices architecture, cloud-based systems and Data Science, strongly focusing on building applications that address real-world business needs.
+## 👩‍💻 About Me
+Full-Stack Software Engineer with **5+ years of experience**, specializing in **Java and backend development**.  
+Experienced across the **full software development lifecycle (SDLC)** — from requirements analysis and system design to development, testing, and deployment.
 
-## Find me around the web 🌎:
-<a href="https://helenapedro.github.io/"><img align="left" width="150" height="150" src="image-octocat-rotating.gif"></a>
+Strong collaborator with a proven ability to integrate systems and components in **fast-paced, multicultural environments**. Known for analytical thinking, clean code practices, and delivering **scalable, reliable solutions** to complex technical problems.
 
-- On [My Portfolio](https://myportfolio.hmpedro.com/)
-- On [LinkedIn](https://www.linkedin.com/in/helena-software-engineer/)
+---
+
+## 🧠 Core Competencies
+- Software Engineering & Application Development  
+- Backend & API Development  
+- Requirements Analysis & System Design  
+- Database Design & Optimization  
+- Troubleshooting & Problem Solving  
+- Agile & RUP Methodologies  
+- Team Collaboration & Cross-functional Communication  
+
+---
+
+## 🛠️ Technical Skills
+
+### Languages
+- Java  
+- SQL  
+- JavaScript  
+- Python  
+
+### Databases
+- Db2  
+- MySQL  
+- MongoDB  
+
+### Frameworks & Libraries
+- Spring Boot  
+- Flask  
+- Redux  
+- Bootstrap  
+- OpenCV  
+- ODBC  
+
+### Tools & IDEs
+- Git  
+- Eclipse  
+- STS4  
+- Visual Paradigm (UML)  
+- Visual Studio  
+
+### Software Development Lifecycle
+- Agile (Scrum)  
+- Waterfall  
+
+### Design Patterns
+- Singleton  
+- Factory  
+- Observer  
+- Template  
+
+### Platforms
+- Windows  
+
+---
+
+## 📌 Interests
+- Scalable backend systems  
+- Cloud-native applications  
+- Distributed systems  
+- Financial & enterprise software  
+
+---
+
+## 🌎 Find Me Around the Web
+<a href="https://helenapedro.github.io/">
+  <img align="left" width="150" height="150" src="image-octocat-rotating.gif">
+</a>
+
+- 🌐 [Portfolio](https://myportfolio.hmpedro.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/helena-software-engineer/)
 
 <br clear="left"/>
 
-## 🛠️ My Skills
-- Java, Spring, JavaScript/TypeScript, Node.js/Express, Python, Flask, React/Redux, SQL, MongoDB
-- REST API design, database optimization, cloud solutions
-- Clean code principles, agile methodologies, and collaborative teamwork within cross-functional environments
+---
 
 ## 📚 Current Projects
-- [Minkanda: Note Taking](https://minkanda.hmpedro.com/login): Web app that securely creates, manages, and accesses private and public notes. Login credentials for testing: (email: test@test.com, password: Test4321).
-- [Resume Feedback](https://master.d1cehne8ow0dq0.amplifyapp.com/): Collaborative web app where job seekers can give and receive valuable feedback on their resumes, designed for those who want honest, constructive insights from peers.
+- **[Minkanda – Note Taking App](https://minkanda.hmpedro.com/login)**  
+- **[Resume Feedback Platform](https://master.d1cehne8ow0dq0.amplifyapp.com/)**  
+---
 
 ## 🏦 Professional Highlights
-While I can't share source code due to confidentiality, here are a few impactful projects I delivered at **Millennium Atlantic Bank**:
+While I can’t share source code due to confidentiality, here are selected projects delivered at **Millennium Atlantic Bank**:
 
 - **🔄 Real-Time Transaction Microservices**  
-  Led the design and deployment of a high-throughput microservices architecture using Spring Boot, Kafka, and Kubernetes, enabling real-time processing of transactions valued up to AOA 3M with <5 min response time.
+  Designed and deployed a high-throughput microservices architecture using **Spring Boot, Kafka, and Kubernetes**, enabling real-time processing of transactions up to **AOA 3M** with sub-5-minute end-to-end latency.
 
-- **📊 Automated Report Generation System**  
-  Developed a Node.js/TypeScript REST API that replaced manual reporting across 36 branches, saving 40+ hours per week and improving data consistency for analytics teams.
+- **📊 Automated Reporting System**  
+  Built a **Node.js / TypeScript REST API** that replaced manual reporting across **36 branches**, saving **40+ hours per week** and improving data consistency for analytics teams.
 
-- **🔐 FX Transactions API & SMS Alerting System**  
-  Built secure, load-balanced APIs for 5,000+ daily FX transactions and an SMS alert system with 99.9% uptime, ensuring timely updates for over 10,000 concurrent users.
+- **🔐 FX Transactions API & SMS Alerting**  
+  Developed secure, load-balanced APIs handling **5,000+ daily FX transactions** and an SMS alerting system with **99.9% uptime**, supporting over **10,000 concurrent users**.
 
-These experiences reinforced my commitment to building scalable, maintainable systems that create measurable business impact.
+These experiences strengthened my focus on building **scalable, maintainable systems with measurable business impact**.
+
+---
 
 ## 📫 How to Reach Me
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/helena-software-engineer/) or [mbeua94@gmail.com](mailto:mbeua94@gmail.com).
+- 💼 [LinkedIn](https://www.linkedin.com/in/helena-software-engineer/)  
+- 📧 [mbeua94@gmail.com](mailto:mbeua94@gmail.com)
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! ⭐

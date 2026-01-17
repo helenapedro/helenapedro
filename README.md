@@ -86,8 +86,7 @@ Strong collaborator with a proven ability to integrate systems and components in
 ---
 
 ## 📚 Current Projects
-- **[Minkanda – Note Taking App](https://minkanda.hmpedro.com/login)**  
-- **[Resume Feedback Platform](https://master.d1cehne8ow0dq0.amplifyapp.com/)**  
+- **[Resume Feedback Platform](https://github.com/helenapedro/resume-feedback-platform)**  
 ---
 
 ## 🏦 Professional Highlights

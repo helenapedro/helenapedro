@@ -30,10 +30,14 @@ const ANGORUSSIA_FEATURE_URL =
   'https://angorussia.com/engenheira-angolana-cria-plataforma-com-ia-para-melhorar-curriculos-e-ganha-destaque-internacional/';
 const ONGOMA_FEATURE_URL =
   'https://ongoma.info/artigo/openai-reconhece-estudante-angolana-nos-estados-unidos-por-criar-plataforma-de-ia-que-ajuda-profissionais-a-melhorar-curriculos';
+const BANTUMEN_FEATURE_URL =
+  'https://www.bantumen.com/artigo/helena-pedro-resume-feedback-platform-openai/';
 const REVISTA_CARREIRA_FEATURE_IMAGE =
   '/project-images/features/revista-carreira-feature.jfif';
 const ANGORUSSIA_TAG_IMAGE = '/project-images/features/angorussia_tag.png';
 const ONGOMA_FEATURE_IMAGE = '/project-images/features/ongoma-news-feature.png';
+const BANTUMEN_FEATURE_IMAGE =
+  '/project-images/features/bantumen-feature.png';
 const HANDSHAKE_FEATURE_IMAGE =
   '/project-images/resume-feedback-platform/handshake_featured.png';
 const HANDSHAKE_SHOWCASE_URL =
@@ -69,6 +73,17 @@ const pressItems = [
     href: ONGOMA_FEATURE_URL,
     image: ONGOMA_FEATURE_IMAGE,
     imagePosition: 'center 35%',
+  },
+  {
+    outlet: 'BANTUMEN',
+    title:
+      "Helena Pedro created an AI resume platform and reached OpenAI's radar",
+    description:
+      'Feature coverage of the Resume Feedback Platform, its focus on helping candidates communicate their value, and the OpenAI recognition behind the project.',
+    href: BANTUMEN_FEATURE_URL,
+    image: BANTUMEN_FEATURE_IMAGE,
+    imageClassName: 'object-contain bg-white',
+    imagePosition: 'top center',
   },
 ];
 
@@ -589,7 +604,7 @@ const PressSection = () => {
       titleClassName="max-w-3xl text-3xl sm:text-4xl"
       description="Independent coverage from Angolan media outlets validates both the product story and the international recognition behind the platform."
     >
-      <div className="mt-5 grid gap-4 sm:mt-6 lg:grid-cols-3">
+      <div className="mt-5 grid gap-4 sm:mt-6 sm:grid-cols-2 lg:grid-cols-4">
         {pressItems.map((item) => (
           <a
             key={item.outlet}

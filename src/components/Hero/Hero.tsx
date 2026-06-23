@@ -1,6 +1,5 @@
 import { Clock3, Globe2, Linkedin, Mail, MapPin } from 'lucide-react';
 import { SiGithub } from 'react-icons/si';
-import { Link } from 'react-router-dom';
 import { ProfileImage } from './ProfileImage';
 import { StatusBadge } from './StatusBadge';
 
@@ -65,16 +64,6 @@ export function Hero() {
           <div className="mt-5 flex w-full max-w-sm flex-col gap-2.5 text-sm">
             <StatusBadge Icon={MapPin} text={`${ADDRESS}`} />
             <StatusBadge Icon={Clock3} text={TIME_ZONE} />
-          </div>
-          <div className="mt-5 w-full max-w-sm rounded-full border border-white/12 bg-white/6 p-1">
-            <div className="flex gap-1">
-              <Link
-                to="/"
-                className="flex-1 rounded-full bg-white px-4 py-2.5 text-center text-sm font-semibold text-slate-900 shadow-sm transition-all"
-              >
-                Projects
-              </Link>
-            </div>
           </div>
           <div className="mt-4 grid w-full max-w-sm grid-cols-1 gap-3 sm:max-w-xl sm:grid-cols-2 lg:max-w-sm xl:max-w-xl">
             {quickActions.map(({ label, href, className, icon: Icon }, index) => (

@@ -1,6 +1,6 @@
 import { Route, Routes } from 'react-router-dom';
 import { Hero } from './components/Hero/Hero';
-import { PressPage, AboutPage, ProjectDetailPage, Projects } from './components/Projects/ProjectPages';
+import { ProjectDetailPage, Projects } from './components/Projects/ProjectPages';
 import { SeoManager } from './components/Seo/SeoManager';
 
 function App() {
@@ -18,8 +18,6 @@ function App() {
           <Routes>
             <Route path="/" element={<Projects />} />
             <Route path="/projects/:id" element={<ProjectDetailPage />} />
-            <Route path="/about" element={<AboutPage />} />
-            <Route path="/press" element={<PressPage />} />
           </Routes>
         </main>
       </div>

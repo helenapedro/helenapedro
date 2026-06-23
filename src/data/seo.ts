@@ -8,19 +8,9 @@ export interface RouteMetadata {
 
 const routeMeta = {
   home: {
-    title: 'Helena Pedro | Software Engineer & AI Innovator | M.S. in Computer Science',
+    title: 'Helena Pedro Technical Portfolio | Backend, Cloud & AI Projects',
     description:
-      'Award-winning Software Engineer specialized in scalable backend systems and AI. Creator of the Resume Feedback Platform featured by OpenAI Developers x Handshake.',
-  },
-  about: {
-    title: 'About Helena Pedro | Backend, Cloud & AI Software Engineer',
-    description:
-      'Helena Pedro is a software engineer focused on backend architecture, cloud systems, generative AI workflows, and business-critical reliability.',
-  },
-  press: {
-    title: 'Press & Recognition | Helena Pedro | AI Innovator',
-    description:
-      'Press coverage and international recognition for Helena Pedro, creator of the Resume Feedback Platform featured by OpenAI Developers x Handshake and Angolan media.',
+      'Technical portfolio for Helena Pedro, showcasing backend architecture, cloud systems, AI workflows, data platforms, and full-stack engineering projects.',
   },
 };
 
@@ -38,15 +28,8 @@ export const getRouteMetadata = (pathname: string): RouteMetadata => {
     };
   }
 
-  const meta =
-    pathname === '/about'
-      ? routeMeta.about
-      : pathname === '/press'
-        ? routeMeta.press
-        : routeMeta.home;
-
   return {
-    ...meta,
+    ...routeMeta.home,
     type: 'profile',
   };
 };

@@ -741,9 +741,6 @@ const ProjectSnapshotCard = ({
             >
               View Website
             </a>
-            <Link to={`/projects/${project.id}`} className={buttonStyles.snapshot}>
-              View Architectural Deep-Dive
-            </Link>
           </div>
         </div>
       </div>

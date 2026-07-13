@@ -12,7 +12,11 @@ export const ProjectTechnologies = ({
 }: ProjectTechnologiesProps) => {
   return (
     <div className="mb-3 sm:mb-4">
-      <div className={`flex flex-wrap gap-2 ${featured ? 'justify-center' : ''}`}>
+      <div
+        className={`flex flex-wrap justify-center gap-2 ${
+          featured ? '' : 'sm:justify-start'
+        }`}
+      >
         {technologies.map((tech) => (
           <span key={tech} className={techBadgeClasses}>
             {tech}

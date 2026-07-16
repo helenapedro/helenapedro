@@ -57,8 +57,9 @@ export function Hero() {
             </h1>
             <p className="mt-3 text-sm leading-6 text-slate-300">
               Building scalable, AI-driven systems that make talent visible.
-              Specialist in backend architecture, Java, Spring Boot, Kafka, and
-              generative AI workflows.
+              Specialist in Full-Stack Development, Backend Architecture, Node.js, 
+              Express, Java, Spring Boot, Kafka, TypeScript, React, JavaScript, SQL,
+              NoSQL and generative AI workflows.
             </p>
           </div>
           <div className="mt-5 flex w-full max-w-sm flex-col gap-2.5 text-sm">
